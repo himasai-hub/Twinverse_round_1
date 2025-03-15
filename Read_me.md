@@ -1,4 +1,4 @@
-Here's your final README with instructions on how to run the project while removing unnecessary code. This keeps it clean and professional.
+
 
 Twinverse Interview Project: Room Brightness Classification
 
